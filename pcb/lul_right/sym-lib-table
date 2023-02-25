@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "mcu")(type "KiCad")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "weteor")(type "KiCad")(uri "/home/matthias/Data/proj/Klacker_BS/pcb/part_library/weteor.kicad_sym")(options "")(descr ""))
+)

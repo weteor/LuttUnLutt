@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "weteor")(type "KiCad")(uri "/home/matthias/Data/Keyboards/weteor_kicad_lib/footprints")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "/home/matthias/Data/proj/SPC_EVDR/submodules/kleeb/mcu.pretty")(options "")(descr ""))
+  (lib (name "ms88sf2_oreore")(type "KiCad")(uri "/home/matthias/Data/proj/Tipper_TF/pcb/ms88sf2_oreore.pretty")(options "")(descr ""))
+)
